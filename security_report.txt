@@ -1,0 +1,9 @@
+LOG ANALYZER - Security Report
+Generated: 2026-06-28 19:57:50.500768
+============================================================
+Failed Logins: 6
+Successful Logins: 2
+Errors: 2
+
+BRUTE FORCE DETECTED:
+  IP: 192.168.1.100 | Attempts: 4
